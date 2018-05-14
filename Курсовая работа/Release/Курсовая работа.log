@@ -1,0 +1,10 @@
+﻿  Курсовая работа.cpp
+Курсовая работа.cpp(859): warning C4018: >: несоответствие типов со знаком и без знака
+Курсовая работа.cpp(881): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 210 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    44 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Курсовая работа.vcxproj -> C:\Programs\My Projects\C_C++\Курсовая работа\Release\Курсовая работа.exe
+  Курсовая работа.vcxproj -> C:\Programs\My Projects\C_C++\Курсовая работа\Release\Курсовая работа.pdb (Full PDB)
